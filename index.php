@@ -66,7 +66,7 @@
              <strong>
 			 <p>Producto resultado del proyecto de investigación "Las empresas comunitarias de factores de exito y fracaso" con apoyo del Fondo Sectorial para l Investigación, el Desarrollo y la Innovación Tecnológica en Turismo.</p>
              <p>SECTUR_CONACYT 148201. </p>
-			 <p>Responsable: Mtro. Gustavo López Pardo.</p>
+			 <p>Responsable: Dr. Gustavo López Pardo.</p>
 			 </strong>
           </div>
 <?php 
